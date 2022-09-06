@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Viewing comments in BBC News site">
+    <classes>
+      <class name="bbcTest.viewingCommentsTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
